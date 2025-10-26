@@ -39,7 +39,7 @@ The project aggregates activity data from 'flow.traces' and 'flow.traces_decoded
 | Dataset | Description |
 |----------|-------------|
 | 'flow.traces' | Raw execution-level transactions (V3, core calls) |
-| 'flow.traces_decoded' | Decoded contract interactions (V2 and Kitty ecosystem) |
+| 'flow.traces_decoded' | Decoded contract interactions (V2) |
 
 ---
 
