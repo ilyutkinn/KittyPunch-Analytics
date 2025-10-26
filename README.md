@@ -1,6 +1,6 @@
 # KittyPunch-Analytics
 
-Comprehensive on-chain analytics for **PunchSwap V2/V3** and **Kitty Protocols** on the **Flow EVM** network.  
+Comprehensive on-chain analytics for **PunchSwap V2/V3** on the **Flow EVM** network.  
 This repository contains SQL queries and dashboards used for analysis on [Dune Analytics](https://dune.com/databomb/kittypunch-flow-evm).
 
 ---
